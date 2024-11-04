@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on AI Air Traffic Management System for Live Flight Routing)
 
-- 🌱 I’m currently learning ** Machine Learning and Neural Networks**
+- 🌱 I’m currently learning **Machine Learning and Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhamadFalah?tab=repositories](https://github.com/AhamadFalah?tab=repositories)
 
