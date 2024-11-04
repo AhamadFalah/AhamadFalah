@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Falah Ahamad</h1>
-<h3 align="center">A passionate full-stack software engineer from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack software engineer from The United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahamadfalah&label=Profile%20views&color=0e75b6&style=flat" alt="ahamadfalah" /> </p>
 
-- 🔭 I’m currently working on [MediPlus](https://github.com/Y2S2-Metro-ITP-Project/MediPlus)
+- 🔭 I’m currently working on AI Air Traffic Management System for Live Flight Routing)
 
-- 🌱 I’m currently learning **MERN Stack , Data Structures And Algorithms**
+- 🌱 I’m currently learning ** Machine Learning and Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhamadFalah?tab=repositories](https://github.com/AhamadFalah?tab=repositories)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mnfalahahamad@gmail.com**
 
-- ⚡ Fun fact **I like coffee**
+- ⚡ Fun fact **I like cars, coffee and gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
